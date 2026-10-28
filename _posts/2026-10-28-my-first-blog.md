@@ -16,7 +16,7 @@ I'm the inventor and pioneer of the **Petra programming standard** which aims to
 
 I identify as primarily as **Systems Thinker** and have trained myself / been trained in, formal reductionist style methods and thinking, and am able to combine these to develop new innovations.
 
-Please find below my PhD thesis titled, Petra: A compositional, contract-based, Correct-by-Construction OOP language, using explainable, layered abstractions, for scalable V&V
+Please find below my PhD thesis titled, **Petra: A compositional, contract-based, Correct-by-Construction OOP language, using explainable, layered abstractions, for scalable V&V**
 
 Thesis: [https://eprints.soton.ac.uk/id/eprint/512032/](https://eprints.soton.ac.uk/id/eprint/512032/)
 
