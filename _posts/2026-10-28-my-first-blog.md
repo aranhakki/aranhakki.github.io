@@ -4,7 +4,7 @@ title: "Welcome!"
 ---
 
 Hello and welcome to my personal blog! I'm likely to be blogging here about all things **AI, Consciousness, Information/Energy Flow, Systems Thinking, Economics, Software Development and Formal Verification** and probably some philosophy including **Reductionism and Holism**, 
-two opposing philosophical approaches used to explain how complex systems, nature, and human experiences work. The aim of this blog is to help communicate understanding of systems thinking approaches, to managing AI and general problem solving across complex domains including science, engineering, social, economic and healthcare.
+two opposing philosophical approaches used to explain how complex systems, nature, and human experiences work. The aim of this blog is to help communicate understanding of systems thinking approaches, to managing AI and general problem solving across complex domains including science, engineering, social, economic and mental health.
 
 # Intro.
 
