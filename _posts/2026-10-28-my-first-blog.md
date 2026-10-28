@@ -10,7 +10,7 @@ two opposing philosophical approaches used to explain how complex systems, natur
 
 I'm **Dr Aran Hakki**, I've been in software industry since 2008, and having years of software development and consulting experience, and recently completing a **PhD in Computer Science** this year, specializing in **Formal Methods and Automated Formal Verification**.
 
-I'm a self-taught in software development, having obtained an **MEng in Systems Engineering**, which covered mechanical, electrical and general engineering.
+I'm self-taught in software development, having obtained an **MEng in Systems Engineering**, which covered mechanical, electrical and general engineering.
 
 I'm the inventor and pioneer of the **Petra programming standard** which aims to democratize formal verification and validation of software at scale. The standard includes **Petra Coord** and **Petra Base**, object-oriented programming language subsets.
 
