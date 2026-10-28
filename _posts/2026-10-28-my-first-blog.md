@@ -18,9 +18,9 @@ I identify as primarily as **Systems Thinker** and have trained myself / been tr
 
 Please find below my PhD thesis titled, Petra: A compositional, contract-based, Correct-by-Construction OOP language, using explainable, layered abstractions, for scalable V&V
 
-Thesis: https://eprints.soton.ac.uk/id/eprint/512032/
+Thesis: [https://eprints.soton.ac.uk/id/eprint/512032/](https://eprints.soton.ac.uk/id/eprint/512032/)
 
-and Petra's commercialisation site: https://www.petracode.co.uk
+and Petra's commercialisation site: [https://www.petracode.co.uk](https://www.petracode.co.uk)
 
 # Thankyou!
 
