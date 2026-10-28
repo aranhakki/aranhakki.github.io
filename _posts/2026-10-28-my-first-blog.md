@@ -3,7 +3,7 @@ layout: post
 title: "Welcome!"
 ---
 
-Hello and welcome to my personal blog! I'm likely to be blogging here about all things **AI, Systems Thinking, Software Development, Formal Verification** and probably some philosophy including **Reductionism and Holism**, 
+Hello and welcome to my personal blog! I'm likely to be blogging here about all things **AI, Consciousness, Information/Energy Flow, Systems Thinking, Economics, Software Development and Formal Verification** and probably some philosophy including **Reductionism and Holism**, 
 two opposing philosophical approaches used to explain how complex systems, nature, and human experiences work.
 
 # Intro.
