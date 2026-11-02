@@ -13,7 +13,7 @@ As far as we known humans have the greatest ability to be conscientious observer
 In general observation, means observing energy flows, this could be traditional physics measures of energy, or other indirect measures like money, happiness, stress or whatever one would like to model.
 Design of optimal systems can be viewed as designing systems that can be observed to interact with other systems, such that the observed energy flows are regenerative, ideally growing in some positive aspect.
 E.g. lets consider an economic system in which we can maximise the happiness of all involved, and design the system such that the happiness would grow over time, this would be an ideallized successful economic system.
-A system that does not regenerate, will eventual run out of energy, and hence will cease to exist. This means that systems never exist in isolation, there must always be some kind of co-dependence or symbiotic behaviour involved.
+A system that does not regenerate, will eventual run out of energy, and hence will cease to exist. This means that systems never continue to exist in isolation, there must always be some kind of co-dependence or symbiotic behaviour involved.
 
 ## References
 
