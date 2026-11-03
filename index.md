@@ -2,4 +2,5 @@
 layout: home
 ---
 
-Welcome to my stream of thoughts on **AI Systems Thinking**
+# The Conscious Observer
+Welcome to my stream of thoughts on **Systems Thinking, AI, Engineering, Formal Methods, Computer Science & Mathematics**
